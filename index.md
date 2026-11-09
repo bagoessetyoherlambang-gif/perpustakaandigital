@@ -14,5 +14,6 @@ Berikut ini adalah Koleksi yang dimiliki: Bagoeslibrary
 10. [Negeri Perasaan](ebook/Negeri Perasaan.pdf) – M. Januarnabiri (2024)
 11. [Malewa: Lelaki yang Berjalan di Atas Air](ebook/Malewa: Lelaki yang Berjalan di Atas Air.pdf) – Andhika Mappasomba Daeng Mammangka (2019)
 12. [Tan Malaka - MADILOG](ebook/Tan Malaka - MADILOG.pdf) – Rowland Book Collections (1943)
+13. [RINGKASAN UGC](ebook/RINGKASAN UGC.pdf) – Bagoes Setyo Herlambang (13040124120032)
 ---
 *Powered by GitHub Pages*
