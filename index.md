@@ -13,7 +13,7 @@ Berikut ini adalah Koleksi yang dimiliki
 7. [Titik Balik 2 Jatuh, Bangun, dan Bertransformasi](ebook/Titik Balik 2 Jatuh, Bangun, dan Bertransformasi.pdf) – Winda Nur Fadhilah (2025)
 8. [Mengajar dengan Hati](ebook/Mengajar dengan Hati.pdf) – Annisa Dyah (2025)
 9. [Negeri Perasaan](ebook/Negeri Perasaan.pdf) – M. Januarnabiri (2024)
-10. Malewa Lelaki yang Berjalan di Atas Air](ebook/Malewa Lelaki yang Berjalan di Atas Air.pdf) – Andhika Mappasomba Daeng Mammangka (2019)
+10. [Malewa Lelaki yang Berjalan di Atas Air](ebook/Malewa Lelaki yang Berjalan di Atas Air.pdf) – Andhika Mappasomba Daeng Mammangka (2019)
 11. [Tan Malaka - MADILOG](ebook/Tan Malaka - MADILOG.pdf) – Rowland Book Collections (1943)
 12. [RINGKASAN UGC](ebook/RINGKASAN UGC.pdf) – Bagoes Setyo Herlambang (13040124120032)
     
