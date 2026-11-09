@@ -10,5 +10,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [Pengantar Logika  Berfikir Kritis](ebook/Pengantar Logika  Berfikir Kritis.pdf) – Matthew J. Van Cleave (2016)
 7. [Transformasi Diri Menyulam Luka Menjadi Kekuatan](ebook/Transformasi Diri Menyulam Luka Menjadi Kekuatan.pdf) – Ricko Primadana (2025)
 8. [Titik Balik 2 Jatuh, Bangun, dan Bertransformasi](ebook/Titik Balik 2 Jatuh, Bangun, dan Bertransformasi.pdf) – Winda Nur Fadhilah (2025)
+9. [Mengajar dengan Hati](ebook/Mengajar dengan Hati.pdf) – Annisa Dyah (2025)
+10. [Negeri Perasaan](ebook/Negeri Perasaan.pdf) – M. Januarnabiri (2024)
+11. [Malewa: Lelaki yang Berjalan di Atas Air](ebook/Malewa: Lelaki yang Berjalan di Atas Air.pdf) – Andhika Mappasomba Daeng Mammangka (2019)
 ---
 *Powered by GitHub Pages*
